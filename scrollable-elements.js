@@ -1,5 +1,6 @@
 /**
- * 
+ * @autor Wellington Santos Ferreira
+ *  
  */
 
 function scrollBotoesLaterais(bar,elementoDelimitador){
