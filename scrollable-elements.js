@@ -1,6 +1,6 @@
 /**
  * @autor Wellington Santos Ferreira
- * inspirado por gisele. 
+ *  
  */
 
 function scrollBotoesLaterais(bar,elementoDelimitador){
